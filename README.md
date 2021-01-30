@@ -8,7 +8,7 @@ Hi there, I'm Nikola  👋
 
 🥅 2021 Goals: Learn a new language
 
-⚡ Fun fact: I love to fishing and sport
+⚡ Fun fact: I love fishing and sport 
 
 
 
