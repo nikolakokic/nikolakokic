@@ -1,6 +1,6 @@
 Hi there, I'm Nikola  👋
 
-🔭 I’m currently working in Fiscal Solutions
+🔭 I’m currently working on some React projects
 
 🌱 I’m currently learning everything 🤣
 
